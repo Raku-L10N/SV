@@ -1,0 +1,28 @@
+{
+  "auth": "zef:l10n",
+  "authors": [
+    "Liz"
+  ],
+  "build-depends": [
+  ],
+  "depends": [
+  ],
+  "description": "Swedish localization of Raku",
+  "license": "Artistic-2.0",
+  "name": "L10N::SV",
+  "perl": "6.d",
+  "provides": {
+    "L10N::SV": "lib/L10N/SV.rakumod",
+    "RakuAST::Deparse::L10N::SV": "lib/RakuAST/Deparse/L10N/SV.rakumod"
+  },
+  "resources": [
+  ],
+  "source-url": "",
+  "tags": [
+    "LOCALIZATION",
+    "Swedish"
+  ],
+  "test-depends": [
+  ],
+  "version": "0.0.1"
+}
