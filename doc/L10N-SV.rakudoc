@@ -12,6 +12,7 @@ $ sweku -e '' # please add a simple code example in the SV localization
 
 =begin code :lang<raku>
 
+# Must have RAKUDO_RAKUAST=1 environment variable set
 use L10N::SV;
 # please add a code example in the SV localization
 
